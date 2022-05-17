@@ -1,7 +1,0 @@
-Comandos Básicos Git Bash
-
-1.cd = direcionar caminho para entrar em arquivos ou pastas
-
-2.ls = listar arquivos e pastas
-
-3.ls -a = mostrar pastas ocultas
